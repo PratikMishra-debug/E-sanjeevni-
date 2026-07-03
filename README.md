@@ -33,7 +33,7 @@
 
 The platform enables patients to connect with qualified doctors online, receive AI-assisted preliminary guidance, schedule consultations, request ambulance services, and receive SMS notifications—all through a modern web interface.
 
-The goal of the project is to bridge the healthcare gap where medical facilities are limited while providing an intuitive digital healthcare experience.
+The goal of the project is to bridge the healthcare  gap where medical facilities are limited while providing an intuitive digital healthcare experience.
 
 ---
 
@@ -187,7 +187,7 @@ ANTHROPIC_API_KEY=YOUR_API_KEY
 
 # 🎯 Future Improvements
 
-- Authentication System
+- Authentication system
 - Electronic Health Records
 - Video Consultation
 - Prescription Generation
