@@ -1,4 +1,4 @@
-# E-Sanjeevni — Rural Telemedicine Platform
+# E-Sanjeevni — Rural Telemedicine platform
 
 # 🩺 E-Sanjeevni – AI Powered Telemedicine Platform
 
