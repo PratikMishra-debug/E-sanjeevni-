@@ -151,7 +151,7 @@ Install dependencies
 npm install
 ```
 
-Run locally
+Run Locally
 
 ```bash
 npm run dev
